@@ -1,0 +1,22 @@
+{
+  "name": "lab_myself2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "stat2": "./main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cheol-Will/Lab_Myself2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cheol-Will/Lab_Myself2/issues"
+  },
+  "homepage": "https://github.com/Cheol-Will/Lab_Myself2#readme"
+}
